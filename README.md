@@ -8,7 +8,7 @@ is simple but very necessary ! =)
 Import the below script  in your document:
 
 ```javascript
-  <script type="text/javascript" src="screen.js"></script>
+  <script type="text/javascript" src="screen.min.js"></script>
 ```
 
 READY! now refresh  your browser,
